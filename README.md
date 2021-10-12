@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davis</h1>
 <h3 align="center">A Passionate Frontend Devleoper (Reactjs | Python) from India</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davisraimon&label=Profile%20views&color=0e75b6&style=flat" alt="davisraimon" /> </p> -->
 
 - 🔭 I’m currently working on a [Social Intelligence platform](https://fractal.ai/consumer-hub/)
 
@@ -10,6 +11,7 @@
 - 📫 How to reach me **davisraimon@gmail.com**
 
 - ⚡ Fun fact **I am a very good Pianist.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
