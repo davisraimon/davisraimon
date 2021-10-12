@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Devleoper (Reactjs | Python) from India</h3>
 
 - 🔭 I’m currently working on a [Social Intelligence platform](https://fractal.ai/consumer-hub/)
 
